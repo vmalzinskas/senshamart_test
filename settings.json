@@ -1,0 +1,17 @@
+{
+  "miner-public-key": "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEb0KsJ2vACm0WHgiSNMxzXQovEujTFmrTusOuGpJBdsvv4N5eqdtTs0LcOr1X3iWciVR3JxXQimRhSk3ji0Gpcw==",
+  "wallet-keypair": "MHQCAQEEIKBeA7fgcO5Vti7WE2oWHLd2Q4XFvPuwad7Pek66IzBYoAcGBSuBBAAKoUQDQgAEXcpuIfwaht3uDUUy3Fi3DCgeNAFSYUFoBL/WzS69x2X9NvTokJ/uXU4y34FuKwbrG8HnRLiMdCGWS4FaRqpbfg==",
+  "miner-keypair": "MHQCAQEEIKBeA7fgcO5Vti7WE2oWHLd2Q4XFvPuwad7Pek66IzBYoAcGBSuBBAAKoUQDQgAEXcpuIfwaht3uDUUy3Fi3DCgeNAFSYUFoBL/WzS69x2X9NvTokJ/uXU4y34FuKwbrG8HnRLiMdCGWS4FaRqpbfg==",
+  "broker-keypair": "MHQCAQEEIFOi4Go5O/7U6CiaWXCXhzZAbWPdzsvUQHSYtGHkaoOJoAcGBSuBBAAKoUQDQgAEhrzp3ty4P6+SII0hH53WPmRiQPgYdoIV9fW0q7RGJaXuQTgzxS02bwKDDWO+Ko2CdOCuA4DN43QZ1l/tOQxsug==",
+  "broker-name": "broker1",
+  "public-wallet-chain-server-peers": [
+    "ws://127.0.0.1:3002",
+    "ws://127.0.0.1:3003"
+  ],
+  "miner-chain-server-peers": [
+  ],
+  "broker-chain-server-peers": [
+    "ws://127.0.0.1:3002"
+  ],
+  "public-wallet-fuseki": "http://127.0.0.1:3030/public-wallet-app"
+}
